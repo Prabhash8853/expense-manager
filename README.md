@@ -10,15 +10,15 @@ Steps for installation.
 
 1. install flutter-sdk on your system from the given link https://flutter.dev/docs/get-started/install
 
-2. > Run Flutter Doctor
+2. ` Run Flutter Doctor `
 
     1. It will give you list of requirements that you need to install along with flutter
 
     2. Install all the things and again run following command:
 
-> Run Flutter Doctor
+3. ` Run Flutter Doctor `
 
-    3. if everything is ok then proceed and fetch the REPO
+    If everything is ok then proceed and fetch the REPO
 
 
 ## Getting Started with REPOSITORY
@@ -27,7 +27,7 @@ Steps for installation.
 
 2. Cool... You are done with cloning. Lets start working on your Hybrid Apps.
 
-> cd expense-manager 
+**` cd expense-manager `**
 
 **One Pre-requisite before running your app**
 
@@ -39,7 +39,7 @@ you should get USB debugging option in your mobile settings.
 
 2. Alright! so you are done with the setup. Lets run below command and let flutter do everything for you...
 
- > flutter run
+    **` flutter run `**
 
 
 cool!!! so you are done. just check your connected device, it should show your mobile app named as expense-manager.
