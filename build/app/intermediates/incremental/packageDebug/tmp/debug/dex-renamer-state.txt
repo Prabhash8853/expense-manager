@@ -1,0 +1,4 @@
+#Thu Aug 13 13:35:06 IST 2020
+base.0=/home/prabhash/Documents/mobile-apps/flutter/flutter_basic/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
